@@ -31,7 +31,14 @@ line-height: 55px;
 
 color: #9061C2;
 }
+#eu{
+  position: absolute;
+width: 191px;
+height: 203px;
+left: 50px;
+top: 339px;
 
+}
 h2{
   position: absolute;
 width: 379px;
@@ -67,18 +74,17 @@ color: #000000;
 
 footer{
   position: absolute;
-left: 0%;
-right: 0%;
-top: 75.59%;
-bottom: 0%;
+  left: 0%;
+  right: 0%;
+  top: 75.59%;
+  bottom: 0%;
 
-background: #E0D1ED;
+  background: #E0D1ED;
 }
 #wj{
-  position: absolute;
+position: absolute;
 width: 181px;
-height: 142px;
+height: 152px;
 left: 50px;
-top: 839px;
-
+top: 30px
 }
